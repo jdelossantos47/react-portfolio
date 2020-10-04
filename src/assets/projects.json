@@ -2,7 +2,7 @@
 {
     "id": 1,
     "name": "Bacon Button",
-    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/bacon-demo.png",
+    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/bacon-demo.png?raw=true",
     "project": "Bacon Button App",
     "location": "https://github.com/katlinking29/bacon-button"
   },
