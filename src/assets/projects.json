@@ -1,0 +1,46 @@
+[
+{
+    "id": 1,
+    "name": "Bacon Button",
+    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/bacon-demo.png",
+    "project": "Bacon Button App",
+    "location": "https://github.com/katlinking29/bacon-button"
+  },
+  {
+    "id": 2,
+    "name": "Password Generator",
+    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/03-javascript-homework-demo.png?raw=true",
+    "project": "Bacon Button App",
+    "location": " https://jdelossantos47.github.io/password-generator"
+  },  
+{
+    "id": 3,
+    "name": "Code Quiz",
+    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/04-web-apis-homework-demo.gif?raw=true",
+    "project": "Code Quiz App",
+    "location": " https://jdelossantos47.github.io/js-code-quiz/"   
+},
+{
+    "id": 4,
+    "name": "Algorhythm Project",
+    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/algorhythm_name_logo.jpg?raw=true",
+    "project": "Algorhythm Project App",
+    "location": " https://user-images.githubusercontent.com/63209633/89963367-77c45180-dc15-11ea-8885-d75c6ad62b82.png"  
+},
+{
+    "id": 5,
+    "name": "Day Planner",
+    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/06-server-side-apis-homework-demo.png?raw=true",
+    "project": "Day Planner App",
+    "location": "  https://jdelossantos47.github.io/day-planner" 
+},
+{
+    "id": 6,
+    "name": "Weather Dashboard",
+    "image": "https://github.com/jdelossantos47/react-portfolio/blob/master/src/assets/06-server-side-apis-homework-demo.png?raw=true",
+    "project": "Weather Dashboard App",
+    "location": " https://jdelossantos47.github.io/weather-dashboard" 
+
+}
+  
+]
